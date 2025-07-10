@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: My HOMEPAGE
 ---
+# Hello, World
+<p>this is my homepage</p>
